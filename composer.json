@@ -1,0 +1,8 @@
+{
+    "name": "laravist/lavavist",
+    "description": "laravist demo",
+    "type": "php",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
